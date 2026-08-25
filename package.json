@@ -1,0 +1,24 @@
+{
+  "name": "atividade_inseto_crud",
+  "version": "0.0.1",
+  "description": "atividade",
+  "homepage": "https://github.com/ellyteo/Atividade_Inseto_CRUD#readme",
+  "bugs": {
+    "url": "https://github.com/ellyteo/Atividade_Inseto_CRUD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellyteo/Atividade_Inseto_CRUD.git"
+  },
+  "license": "ISC",
+  "author": "Gabrielly",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
